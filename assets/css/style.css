@@ -1,0 +1,22 @@
+.btn-admin{
+	width: 34.07px;
+	height: 20px;
+	color: #fff;
+	padding: 5px 15px;
+	border-radius: 16px;
+	font-size: 10px;
+	margin-bottom: 10%;
+	text-decoration: none;
+}
+
+.blue{
+	background: #418FDB;
+}
+
+.green{
+	background: #7BDF57;
+}
+
+.red{
+	background: #E8452F;
+}

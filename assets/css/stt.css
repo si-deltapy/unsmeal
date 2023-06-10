@@ -1,0 +1,111 @@
+.vertical-menu {
+  width: 200px;
+  position: absolute;
+  width: 300px;
+  height: 706px;
+  left: 18px;
+  top: 108px;
+
+  background: linear-gradient(169.6deg, #0456A5 -3.62%, rgba(53, 153, 249, 0.74) 102.43%);
+  border-radius: 10px;
+}
+
+.vertical-menu a {
+    
+  height: 36px;
+  color: white;
+  display: block;
+  margin-top: 10px;
+  padding: 12px 30px;
+  text-decoration: none;
+
+}
+
+.vertical-menu a:hover {
+  background-color: #ccc;
+  text-decoration: none;
+  width: 269px;
+  height: 36px;
+  margin-left: 10px;
+  border-radius: 10px;
+  color:  #1C6DBB;
+}
+
+.vertical-menu a.active {
+    position: relative;
+    width: 269px;
+    height: 36px;
+    margin-left: 10px;
+    text-decoration: none;
+    color: #1C6DBB;
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+.img-uns {
+    /* logo-uns-food 1 */
+
+  position: absolute;
+  width: 280.86px;
+  height: 61px;
+  left: 18px;
+  top: 35px;
+}
+
+.img-uns-login {
+    /* logo-uns-food 1 */
+  width: 280.86px;
+  height: 61px;
+}
+
+.tbl-order {
+  position: absolute;
+  width: 900px;
+  height: 261px;
+  left: 354px;
+  top: 193px;
+
+  background: #FFFFFF;
+  box-shadow: -6px 9px 26px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
+
+.tbl-menu {
+  position: absolute;
+  width: 205px;
+  height: 244px;
+  left: 357px;
+  top: 171px;
+
+  background: #FFFFFF;
+  box-shadow: -4px 6px 19px rgba(0, 0, 0, 0.35);
+  border-radius: 10px;
+}
+
+.tbl-pays {
+  position: absolute;
+  width: 635px;
+  height: 576px;
+  left: 463px;
+  top: 153px;
+
+  background: #FFFFFF;
+  box-shadow: -6.12px 9.18px 26.52px rgba(0, 0, 0, 0.25);
+  border-radius: 10.2px;
+}
+
+.txt-label {
+position: absolute;
+width: 600px;
+height: 20px;
+left: 337px;
+top: 124px;
+
+font-family: 'Atkinson Hyperlegible';
+font-style: italic;
+font-weight: 400;
+font-size: 16.2816px;
+line-height: 20px;
+
+color: #B4B4B4;
+}
+

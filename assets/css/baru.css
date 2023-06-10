@@ -1,0 +1,148 @@
+.tbl-pay{
+	position: absolute;
+	width: 800px;
+	height: 120px;
+	left: 470px;
+	top: 194px;
+
+	color: #1C6DBB;
+	background: #FFFFFF;
+	box-shadow: -6px 9px 26px rgba(0, 0, 0, 0.25);
+	border-radius: 10px;
+}
+.tbl-pay-1{
+	position: absolute;
+	width: 800px;
+	height: 120px;
+	left: 470px;
+	top: 360px;
+
+	color: #1C6DBB;
+	background: #FFFFFF;
+	box-shadow: -6px 9px 26px rgba(0, 0, 0, 0.25);
+	border-radius: 10px;
+}
+
+.tbl-pay-2{
+	position: absolute;
+	width: 800px;
+	height: 120px;
+	left: 470px;
+	top: 526px;
+
+	color: #1C6DBB;
+	background: #FFFFFF;
+	box-shadow: -6px 9px 26px rgba(0, 0, 0, 0.25);
+	border-radius: 10px;
+}
+
+.tbl-pay:hover,
+.tbl-pay-1:hover,
+.tbl-pay-2:hover,
+.text-pay:hover .atm{
+	background: #92673d;
+	color: #000;
+	filter: invert();
+}
+
+.atm{
+	position: absolute;
+	width: 80px;
+	height: 80px;
+	margin-top: 20px;
+	left: 130px;
+}
+
+.text-pay{
+
+	font-family: 'Baloo Bhaijaan 2';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 24px;
+	line-height: 27px;
+	margin: auto;
+	margin-left: 265px;
+	margin-top: 45px;
+}
+
+.mto-1{
+	margin-top: 20px;
+}
+.btn-order{
+	width: 34.07px;
+	height: 20px;
+	color: #fff;
+	padding: 5px 6px;
+	background: #418FDB;
+	border-radius: 16px;
+	font-size: 10px;
+	margin: auto;
+	margin-left: 65%;
+	margin-bottom: 10%;
+}
+
+.btn-order:hover{
+	background: #fff;
+	color: #418FDB;
+	box-shadow: -6px 9px 26px rgba(0, 0, 0, 0.25);
+}
+
+.btn-pay{
+	width: 36px;
+	height: 18px;
+	color: #fff;
+	padding: 5px 6px;
+	background: #418FDB;
+	border-radius: 10px;
+	font-size: 14px;
+}
+
+.logo{
+  width: 280.86px;
+  height: 61px;
+  margin-bottom: 50px;
+  margin-left: 420px;
+}
+
+.text-p{
+width: 278px;
+height: 84px;
+left: 662px;
+top: 200px;
+margin: auto;
+margin-left: 330px; 
+
+font-family: 'Baloo Bhaijaan 2';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+}
+
+.text-p-h6{
+width: 230px;
+height: 19px;
+left: 0px;
+top: 546px;
+margin: auto;
+margin-left: 20px;
+
+font-family: 'Atkinson Hyperlegible';
+font-style: normal;
+font-weight: 700;
+font-size: 15.4702px;
+line-height: 19px;
+
+}
+
+.txt-opt{
+	width: 36px;
+	height: 18px;
+	color: #fff;
+	padding: 5px 6px;
+	margin: auto;
+	margin-left: 85%;
+	background: #418FDB;
+	border-radius: 10px;
+	font-size: 19px
+}

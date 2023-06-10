@@ -1,0 +1,31 @@
+.img-banner {
+margin: auto;
+margin-left: 9.5px;
+margin-top: 9.5px; 
+width: 185px;
+height: 173.76px;
+object-fit: cover;
+border-radius: 10px;
+}
+
+.text-order{
+	font-family: 'Baloo Bhaijaan 2';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 16.0163px;
+	line-height: 27px;
+	margin: auto;
+	margin-left: 15px;
+	margin-top: 5px;
+}
+.tbl-order-admin {
+  position: absolute;
+  width: 900px;
+  left: 354px;
+  top: 193px;
+
+  background: #FFFFFF;
+  box-shadow: -6px 9px 26px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
+
